@@ -10,3 +10,68 @@ This project demonstrates how to use Data Validation in Microsoft Excel to contr
 ✔️ Date validation to allow only specific date ranges
 ✔️ Custom formulas for advanced validation
 ✔️ Error messages and input messages.
+
+
+
+# 🎬 Movie Data Analysis Project
+
+This project focuses on analyzing a dataset of movies based on their genre, cast, director, release year, and revenue. It’s designed for practicing data cleaning, visualization, and statistical analysis using tools like Excel or Google Sheets.
+
+---
+
+## 📂 Project Overview
+
+- Dataset includes:
+  - Movie titles
+  - Release dates
+  - Genres
+  - Directors & Cast
+  - Revenue figures
+
+- Goals:
+  - Analyze trends in movie revenues by year
+  - Identify low-grossing movies (<$10M)
+  - Calculate average revenue and proportions
+  - Visualize insights using charts
+
+---
+
+## 📊 Data Insights & Visuals
+
+### 🎥 Movie Metadata Example
+![Movie Data Starter Project](./Movie%20Data%20Starter%20Project.png)
+
+### 📈 Revenue Analysis Chart
+![Movie Revenue Chart]()
+
+---
+
+## 🛠️ Tools Used
+
+- Google Sheets (or MS Excel)
+- Charts & Pivot Tables
+- Data Filtering and Field Calculations
+
+---
+
+## 📌 Key Learnings
+
+- Data organization and cleaning
+- Use of pivot tables for aggregation
+- Visualizing data trends
+- Working with real-world movie datasets
+
+---
+
+## 📎 How to Use
+
+1. Clone the repository or download the Excel file.
+2. Open in Excel/Google Sheets.
+3. Explore the sheets: `Sheet1` (raw data), `Revenue` (analysis).
+4. Customize and expand the dataset for deeper analysis!
+
+---
+
+## 📬 Feedback or Contributions
+
+Feel free to fork the repo and suggest improvements, or reach out if you'd like to collaborate!
