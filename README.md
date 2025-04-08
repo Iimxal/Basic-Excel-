@@ -38,17 +38,14 @@ This project focuses on analyzing a dataset of movies based on their genre, cast
 
 ## 📊 Data Insights & Visuals
 
-### 🎥 Movie Metadata Example
-![Movie Data Starter Project](./Movie%20Data%20Starter%20Project.png)
-
 ### 📈 Revenue Analysis Chart
-![Movie Revenue Chart]()
+![Movie Revenue Chart](Movie Data Revenue.png)
 
 ---
 
 ## 🛠️ Tools Used
 
-- Google Sheets (or MS Excel)
+- Google Sheets 
 - Charts & Pivot Tables
 - Data Filtering and Field Calculations
 
