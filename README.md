@@ -39,7 +39,7 @@ This project focuses on analyzing a dataset of movies based on their genre, cast
 ## 📊 Data Insights & Visuals
 
 ### 📈 Revenue Analysis Chart
-![Movie Revenue Chart]([Movie Data Revenue.png](https://github.com/Iimxal/Basic-Excel-/blob/5cbad3d32cd4e54ce0dd0c2da2eee705b137288a/Movie%20Data%20Revenue.png))
+![Movie Revenue Chart]([Movie Data Revenue.png](https://github.com/Iimxal/Basic-Excel-/blob/c2766bb672b24244f94b5be9a38648e278fb2ea3/Movie%20Data%20Starter%20Project%20Graph.png))
 
 ---
 
