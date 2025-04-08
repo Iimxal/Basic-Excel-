@@ -15,6 +15,8 @@ This project demonstrates how to use Data Validation in Microsoft Excel to contr
 
 # 🎬 Movie Data Analysis Project
 
+Link - https://docs.google.com/spreadsheets/d/1dz0wIvIcdhxKubXraUArg5jENxsauJEWApyD2Rs0m1Q/edit?usp=sharing
+
 This project focuses on analyzing a dataset of movies based on their genre, cast, director, release year, and revenue. It’s designed for practicing data cleaning, visualization, and statistical analysis using tools like Excel or Google Sheets.
 
 ---
